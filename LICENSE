@@ -1,202 +1,121 @@
-The Artistic License 2.0
+All contents contained in this repository is licensed under Free Art License 1.3.
 
-	       Copyright (c) 2014 Aurélien Roux
 
-     Everyone is permitted to copy and distribute verbatim copies
-      of this license document, but changing it is not allowed.
+[ Copyleft Attitude ]
+
+Free Art License 1.3 (FAL 1.3)
 
 Preamble
 
-This license establishes the terms under which a given free software
-Package may be copied, modified, distributed, and/or redistributed.
-The intent is that the Copyright Holder maintains some artistic
-control over the development of that Package while still keeping the
-Package available as open source and free software.
+The Free Art License grants the right to freely copy, distribute, and transform creative works without infringing the author's rights.
 
-You are always permitted to make arrangements wholly outside of this
-license directly with the Copyright Holder of a given Package.  If the
-terms of this license do not permit the full use that you propose to
-make of the Package, you should contact the Copyright Holder and seek
-a different licensing arrangement. 
+The Free Art License recognizes and protects these rights. Their implementation has been reformulated in order to allow everyone to use creations of the human mind in a creative manner, regardless of their types and ways of expression.
+
+While the public's access to creations of the human mind usually is restricted by the implementation of copyright law, it is favoured by the Free Art License. This license intends to allow the use of a work’s resources; to establish new conditions for creating in order to increase creation opportunities. The Free Art License grants the right to use a work, and acknowledges the right holder’s and the user’s rights and responsibility.
+
+The invention and development of digital technologies, Internet and Free Software have changed creation methods: creations of the human mind can obviously be distributed, exchanged, and transformed. They allow to produce common works to which everyone can contribute to the benefit of all.
+
+The main rationale for this Free Art License is to promote and protect these creations of the human mind according to the principles of copyleft: freedom to use, copy, distribute, transform, and prohibition of exclusive appropriation.
 
 Definitions
 
-    "Copyright Holder" means the individual(s) or organization(s)
-    named in the copyright notice for the entire Package.
+“work” either means the initial work, the subsequent works or the common work as defined hereafter:
 
-    "Contributor" means any party that has contributed code or other
-    material to the Package, in accordance with the Copyright Holder's
-    procedures.
+“common work” means a work composed of the initial work and all subsequent contributions to it (originals and copies). The initial author is the one who, by choosing this license, defines the conditions under which contributions are made.
 
-    "You" and "your" means any person who would like to copy,
-    distribute, or modify the Package.
+“Initial work” means the work created by the initiator of the common work (as defined above), the copies of which can be modified by whoever wants to
 
-    "Package" means the collection of files distributed by the
-    Copyright Holder, and derivatives of that collection and/or of
-    those files. A given Package may consist of either the Standard
-    Version, or a Modified Version.
+“Subsequent works” means the contributions made by authors who participate in the evolution of the common work by exercising the rights to reproduce, distribute, and modify that are granted by the license.
 
-    "Distribute" means providing a copy of the Package or making it
-    accessible to anyone else, or in the case of a company or
-    organization, to others outside of your company or organization.
+“Originals” (sources or resources of the work) means all copies of either the initial work or any subsequent work mentioning a date and used by their author(s) as references for any subsequent updates, interpretations, copies or reproductions.
 
-    "Distributor Fee" means any fee that you charge for Distributing
-    this Package or providing support for this Package to another
-    party.  It does not mean licensing fees.
+“Copy” means any reproduction of an original as defined by this license.
 
-    "Standard Version" refers to the Package if it has not been
-    modified, or has been modified only in ways explicitly requested
-    by the Copyright Holder.
+1. OBJECT
+The aim of this license is to define the conditions under which one can use this work freely.
 
-    "Modified Version" means the Package, if it has been changed, and
-    such changes were not explicitly requested by the Copyright
-    Holder. 
+2. SCOPE
+This work is subject to copyright law. Through this license its author specifies the extent to which you can copy, distribute, and modify it.
 
-    "Original License" means this Artistic License as Distributed with
-    the Standard Version of the Package, in its current version or as
-    it may be modified by The Perl Foundation in the future.
+2.1 FREEDOM TO COPY (OR TO MAKE REPRODUCTIONS)
+You have the right to copy this work for yourself, your friends or any other person, whatever the technique used.
 
-    "Source" form means the source code, documentation source, and
-    configuration files for the Package.
+2.2 FREEDOM TO DISTRIBUTE, TO PERFORM IN PUBLIC
+You have the right to distribute copies of this work; whether modified or not, whatever the medium and the place, with or without any charge, provided that you:
+attach this license without any modification to the copies of this work or indicate precisely where the license can be found,
+specify to the recipient the names of the author(s) of the originals, including yours if you have modified the work,
+specify to the recipient where to access the originals (either initial or subsequent).
+The authors of the originals may, if they wish to, give you the right to distribute the originals under the same conditions as the copies.
 
-    "Compiled" form means the compiled bytecode, object code, binary,
-    or any other form resulting from mechanical transformation or
-    translation of the Source form.
+2.3 FREEDOM TO MODIFY
+You have the right to modify copies of the originals (whether initial or subsequent) provided you comply with the following conditions:
+all conditions in article 2.2 above, if you distribute modified copies;
+indicate that the work has been modified and, if it is possible, what kind of modifications have been made;
+distribute the subsequent work under the same license or any compatible license.
+The author(s) of the original work may give you the right to modify it under the same conditions as the copies.
 
+3. RELATED RIGHTS
+Activities giving rise to author’s rights and related rights shall not challenge the rights granted by this license.
+For example, this is the reason why performances must be subject to the same license or a compatible license. Similarly, integrating the work in a database, a compilation or an anthology shall not prevent anyone from using the work under the same conditions as those defined in this license.
 
-Permission for Use and Modification Without Distribution
+4. INCORPORATION OF THE WORK
+Incorporating this work into a larger work that is not subject to the Free Art License shall not challenge the rights granted by this license.
+If the work can no longer be accessed apart from the larger work in which it is incorporated, then incorporation shall only be allowed under the condition that the larger work is subject either to the Free Art License or a compatible license.
 
-(1)  You are permitted to use the Standard Version and create and use
-Modified Versions for any purpose without restriction, provided that
-you do not Distribute the Modified Version.
+5. COMPATIBILITY
+A license is compatible with the Free Art License provided:
+it gives the right to copy, distribute, and modify copies of the work including for commercial purposes and without any other restrictions than those required by the respect of the other compatibility criteria;
+it ensures proper attribution of the work to its authors and access to previous versions of the work when possible;
+it recognizes the Free Art License as compatible (reciprocity);
+it requires that changes made to the work be subject to the same license or to a license which also meets these compatibility criteria.
 
+6. YOUR INTELLECTUAL RIGHTS
+This license does not aim at denying your author's rights in your contribution or any related right. By choosing to contribute to the development of this common work, you only agree to grant others the same rights with regard to your contribution as those you were granted by this license. Conferring these rights does not mean you have to give up your intellectual rights.
 
-Permissions for Redistribution of the Standard Version
+7. YOUR RESPONSIBILITIES
+The freedom to use the work as defined by the Free Art License (right to copy, distribute, modify) implies that everyone is responsible for their own actions.
 
-(2)  You may Distribute verbatim copies of the Source form of the
-Standard Version of this Package in any medium without restriction,
-either gratis or for a Distributor Fee, provided that you duplicate
-all of the original copyright notices and associated disclaimers.  At
-your discretion, such verbatim copies may or may not include a
-Compiled form of the Package.
+8. DURATION OF THE LICENSE
+This license takes effect as of your acceptance of its terms. The act of copying, distributing, or modifying the work constitutes a tacit agreement. This license will remain in effect for as long as the copyright which is attached to the work. If you do not respect the terms of this license, you automatically lose the rights that it confers.
+If the legal status or legislation to which you are subject makes it impossible for you to respect the terms of this license, you may not make use of the rights which it confers.
 
-(3)  You may apply any bug fixes, portability changes, and other
-modifications made available from the Copyright Holder.  The resulting
-Package will still be considered the Standard Version, and as such
-will be subject to the Original License.
+9. VARIOUS VERSIONS OF THE LICENSE
+This license may undergo periodic modifications to incorporate improvements by its authors (instigators of the “Copyleft Attitude” movement) by way of new, numbered versions.
+You will always have the choice of accepting the terms contained in the version under which the copy of the work was distributed to you, or alternatively, to use the provisions of one of the subsequent versions.
 
+10. SUB-LICENSING
+Sub-licenses are not authorized by this license. Any person wishing to make use of the rights that it confers will be directly bound to the authors of the common work.
 
-Distribution of Modified Versions of the Package as Source 
+11. LEGAL FRAMEWORK
+This license is written with respect to both French law and the Berne Convention for the Protection of Literary and Artistic Works.
 
-(4)  You may Distribute your Modified Version as Source (either gratis
-or for a Distributor Fee, and with or without a Compiled form of the
-Modified Version) provided that you clearly document how it differs
-from the Standard Version, including, but not limited to, documenting
-any non-standard features, executables, or modules, and provided that
-you do at least ONE of the following:
+USER GUIDE
 
-    (a)  make the Modified Version available to the Copyright Holder
-    of the Standard Version, under the Original License, so that the
-    Copyright Holder may include your modifications in the Standard
-    Version.
+- How to use the Free Art License?
+To benefit from the Free Art License, you only need to mention the following elements on your work:
+[Name of the author, title, date of the work. When applicable, names of authors of the common work and, if possible, where to find the originals].
+Copyleft: This is a free work, you can copy, distribute, and modify it under the terms of the Free Art License http://artlibre.org/licence/lal/en/
 
-    (b)  ensure that installation of your Modified Version does not
-    prevent the user installing or running the Standard Version. In
-    addition, the Modified Version must bear a name that is different
-    from the name of the Standard Version.
+- Why to use the Free Art License?
+1.To give the greatest number of people access to your work.
+2.To allow it to be distributed freely.
+3.To allow it to evolve by allowing its copy, distribution, and transformation by others.
+4.So that you benefit from the resources of a work when it is under the Free Art License: to be able to copy, distribute or transform it freely.
+5.But also, because the Free Art License offers a legal framework to disallow any misappropriation. It is forbidden to take hold of your work and bypass the creative process for one's exclusive possession.
 
-    (c)  allow anyone who receives a copy of the Modified Version to
-    make the Source form of the Modified Version available to others
-    under
-		
-	(i)  the Original License or
+- When to use the Free Art License?
+Any time you want to benefit and make others benefit from the right to copy, distribute and transform creative works without any exclusive appropriation, you should use the Free Art License. You can for example use it for scientific, artistic or educational projects.
 
-	(ii)  a license that permits the licensee to freely copy,
-	modify and redistribute the Modified Version using the same
-	licensing terms that apply to the copy that the licensee
-	received, and requires that the Source form of the Modified
-	Version, and of any works derived from it, be made freely
-	available in that license fees are prohibited but Distributor
-	Fees are allowed.
+- What kinds of works can be subject to the Free Art License?
+The Free Art License can be applied to digital as well as physical works.
+You can choose to apply the Free Art License on any text, picture, sound, gesture, or whatever sort of stuff on which you have sufficient author's rights.
 
+- Historical background of this license:
+It is the result of observing, using and creating digital technologies, free software, the Internet and art. It arose from the “Copyleft Attitude” meetings which took place in Paris in 2000. For the first time, these meetings brought together members of the Free Software community, artists, and members of the art world. The goal was to adapt the principles of Copyleft and free software to all sorts of creations. http://www.artlibre.org
 
-Distribution of Compiled Forms of the Standard Version 
-or Modified Versions without the Source
+Copyleft Attitude, 2007.
+You can make reproductions and distribute this license verbatim (without any changes).
 
-(5)  You may Distribute Compiled forms of the Standard Version without
-the Source, provided that you include complete instructions on how to
-get the Source of the Standard Version.  Such instructions must be
-valid at the time of your distribution.  If these instructions, at any
-time while you are carrying out such distribution, become invalid, you
-must provide new instructions on demand or cease further distribution.
-If you provide valid instructions or cease distribution within thirty
-days after you become aware that the instructions are invalid, then
-you do not forfeit any of your rights under this license.
-
-(6)  You may Distribute a Modified Version in Compiled form without
-the Source, provided that you comply with Section 4 with respect to
-the Source of the Modified Version.
-
-
-Aggregating or Linking the Package 
-
-(7)  You may aggregate the Package (either the Standard Version or
-Modified Version) with other packages and Distribute the resulting
-aggregation provided that you do not charge a licensing fee for the
-Package.  Distributor Fees are permitted, and licensing fees for other
-components in the aggregation are permitted. The terms of this license
-apply to the use and Distribution of the Standard or Modified Versions
-as included in the aggregation.
-
-(8) You are permitted to link Modified and Standard Versions with
-other works, to embed the Package in a larger work of your own, or to
-build stand-alone binary or bytecode versions of applications that
-include the Package, and Distribute the result without restriction,
-provided the result does not expose a direct interface to the Package.
-
-
-Items That are Not Considered Part of a Modified Version 
-
-(9) Works (including, but not limited to, modules and scripts) that
-merely extend or make use of the Package, do not, by themselves, cause
-the Package to be a Modified Version.  In addition, such works are not
-considered parts of the Package itself, and are not subject to the
-terms of this license.
-
-
-General Provisions
-
-(10)  Any use, modification, and distribution of the Standard or
-Modified Versions is governed by this Artistic License. By using,
-modifying or distributing the Package, you accept this license. Do not
-use, modify, or distribute the Package, if you do not accept this
-license.
-
-(11)  If your Modified Version has been derived from a Modified
-Version made by someone other than you, you are nevertheless required
-to ensure that your Modified Version complies with the requirements of
-this license.
-
-(12)  This license does not grant you the right to use any trademark,
-service mark, tradename, or logo of the Copyright Holder.
-
-(13)  This license includes the non-exclusive, worldwide,
-free-of-charge patent license to make, have made, use, offer to sell,
-sell, import and otherwise transfer the Package with respect to any
-patent claims licensable by the Copyright Holder that are necessarily
-infringed by the Package. If you institute patent litigation
-(including a cross-claim or counterclaim) against any party alleging
-that the Package constitutes direct or contributory patent
-infringement, then this Artistic License to you shall terminate on the
-date that such litigation is filed.
-
-(14)  Disclaimer of Warranty:
-THE PACKAGE IS PROVIDED BY THE COPYRIGHT HOLDER AND CONTRIBUTORS "AS
-IS' AND WITHOUT ANY EXPRESS OR IMPLIED WARRANTIES. THE IMPLIED
-WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, OR
-NON-INFRINGEMENT ARE DISCLAIMED TO THE EXTENT PERMITTED BY YOUR LOCAL
-LAW. UNLESS REQUIRED BY LAW, NO COPYRIGHT HOLDER OR CONTRIBUTOR WILL
-BE LIABLE FOR ANY DIRECT, INDIRECT, INCIDENTAL, OR CONSEQUENTIAL
-DAMAGES ARISING IN ANY WAY OUT OF THE USE OF THE PACKAGE, EVEN IF
-ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
+    Translation : Jonathan Clarke, Benjamin Jean, Griselda Jung, Fanny Mourguet, Antoine Pitrou.
+    Thanks to framalang.org
 
